@@ -1,0 +1,23 @@
+{
+  "name": "2ch-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v4to/2ch-extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v4to/2ch-extension/issues"
+  },
+  "homepage": "https://github.com/v4to/2ch-extension#readme",
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
